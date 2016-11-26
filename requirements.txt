@@ -1,0 +1,17 @@
+future==0.16.0
+geopy==1.11.0
+gpsoauth==0.3.0
+gpxpy==1.1.1
+httmock==1.2.5
+nose==1.3.7
+numpy==1.11.2
+pandas==0.19.1
+-e git://github.com/mhozza/pokemongo-api@e9342cfac42f827f6e8756d9d39382ae7ac7f8a3#egg=pogo
+protobuf==3.0.0b3
+pycryptodomex==3.4.2
+python-dateutil==2.6.0
+pytz==2016.7
+requests==2.10.0
+s2sphere==0.2.4
+six==1.10.0
+xxhash==0.6.1
